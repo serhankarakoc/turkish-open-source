@@ -116,11 +116,12 @@ func TestComputeStatistics(t *testing.T) {
 func TestGenerateIncludesFrameworkTable(t *testing.T) {
 	cfg := &config.Config{Readme: config.ReadmeConfig{StarredLimit: 10, TrendingLimit: 10, RecentLimit: 10, CategoryLimit: 10}}
 	frameworks := []framework.Framework{
-		{Name: "Kemal", Language: "Crystal", Category: "web-framework", GitHub: "https://github.com/kemalcr/kemal", Stars: 3901, License: "MIT", Status: "verified"},
+		{Name: "Kemal", Language: "Crystal", Category: "web-framework", GitHub: "https://github.com/kemalcr/kemal", Website: "https://kemalcr.com", Stars: 3901, License: "MIT", Status: "verified"},
+		{Name: "ZATRANO", Language: "Go", Category: "web-framework", GitHub: "https://github.com/zatrano/framework", Stars: 10, License: "MIT", Status: "verified"},
 		{Name: "Missing", GitHub: "https://github.com/missing/missing", Status: framework.StatusNotFound},
 	}
 	out := Generate(sampleProjects(), frameworks, cfg, time.Date(2026, 8, 18, 0, 0, 0, 0, time.UTC))
-	for _, needle := range []string{"## Framework'ler", "[Kemal](https://github.com/kemalcr/kemal)", "Crystal", "3901", "Web"} {
+	for _, needle := range []string{"## Framework'ler", "[Kemal](https://github.com/kemalcr/kemal)", "[kemalcr.com](https://kemalcr.com)", "Crystal", "3901", "Web"} {
 		if !strings.Contains(out, needle) {
 			t.Fatalf("missing %q", needle)
 		}
@@ -130,5 +131,8 @@ func TestGenerateIncludesFrameworkTable(t *testing.T) {
 	}
 	if strings.Contains(out, "## Statistics") || strings.Contains(out, "## Trending") || strings.Contains(out, "Top Frameworks, Libraries") {
 		t.Fatal("removed noisy sections leaked into README")
+	}
+	if !strings.Contains(out, "| [ZATRANO](https://github.com/zatrano/framework) | - |") {
+		t.Fatal("missing website should render as dash")
 	}
 }

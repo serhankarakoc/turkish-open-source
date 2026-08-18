@@ -2,6 +2,7 @@ package generator
 
 import (
 	"fmt"
+	"net/url"
 	"os"
 	"sort"
 	"strconv"
@@ -75,8 +76,8 @@ func writeFrameworkTable(b *strings.Builder, frameworks []framework.Framework) {
 		b.WriteString("_Henüz listelenecek framework yok._\n\n")
 		return
 	}
-	b.WriteString("| Framework | Dil | Kategori | Stars | Lisans |\n")
-	b.WriteString("|---|---|---|---:|---|\n")
+	b.WriteString("| Framework | Website | Dil | Kategori | Stars | Lisans |\n")
+	b.WriteString("|---|---|---|---|---:|---|\n")
 	items := append([]framework.Framework(nil), frameworks...)
 	sort.SliceStable(items, func(i, j int) bool {
 		if items[i].Stars != items[j].Stars {
@@ -94,9 +95,9 @@ func writeFrameworkTable(b *strings.Builder, frameworks []framework.Framework) {
 		if license == "other" || license == "Unknown" {
 			license = "-"
 		}
-		fmt.Fprintf(b, "| [%s](%s) | %s | %s | %s | %s |\n",
-			escapeTable(name), f.GitHub, escapeTable(lang), escapeTable(frameworkCategoryLabel(f.Category)),
-			strconv.Itoa(f.Stars), escapeTable(license))
+		fmt.Fprintf(b, "| [%s](%s) | %s | %s | %s | %s | %s |\n",
+			escapeTable(name), f.GitHub, frameworkWebsiteLink(f.Website), escapeTable(lang),
+			escapeTable(frameworkCategoryLabel(f.Category)), strconv.Itoa(f.Stars), escapeTable(license))
 	}
 	b.WriteString("\n")
 }
@@ -133,6 +134,26 @@ func frameworkCategoryLabel(key string) string {
 		}
 		return key
 	}
+}
+
+func frameworkWebsiteLink(raw string) string {
+	raw = strings.TrimSpace(raw)
+	if raw == "" {
+		return "-"
+	}
+	u, err := url.Parse(raw)
+	if err != nil {
+		return "-"
+	}
+	if u.Scheme != "http" && u.Scheme != "https" {
+		return "-"
+	}
+	host := strings.TrimPrefix(strings.ToLower(u.Hostname()), "www.")
+	if host == "" {
+		return "-"
+	}
+	href := strings.TrimRight(raw, "/")
+	return fmt.Sprintf("[%s](%s)", escapeTable(host), href)
 }
 
 func dash(s string) string {
