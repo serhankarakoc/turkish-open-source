@@ -1,0 +1,56 @@
+# Curated Turkish-origin frameworks.
+# Manual fields only: github, category, initial_status.
+# Optional `name` is a display title when the GitHub repo slug is not the product name.
+# Do NOT store stars, language, license, website, or owner location here.
+# The scanner fills those from the GitHub API on every scan.
+
+frameworks:
+  - name: ABP Framework
+    github: https://github.com/abpframework/abp
+    category: application-framework
+    initial_status: verified
+
+  - name: ASP.NET Boilerplate
+    github: https://github.com/aspnetboilerplate/aspnetboilerplate
+    category: application-framework
+    initial_status: verified
+
+  - name: PrimeFaces
+    github: https://github.com/primefaces/primefaces
+    category: ui-framework
+    initial_status: verified
+
+  - name: Kemal
+    github: https://github.com/kemalcr/kemal
+    category: web-framework
+    initial_status: verified
+
+  - name: ZN Framework
+    github: https://github.com/znframework/znframework
+    category: web-framework
+    initial_status: verified
+
+  - name: ZATRANO
+    github: https://github.com/zatrano/framework
+    category: web-framework
+    initial_status: verified
+
+  - name: VoltranJS
+    github: https://github.com/hepsiburada/VoltranJS
+    category: micro-frontend-framework
+    initial_status: verified
+
+  - name: PuzzleJS
+    github: https://github.com/puzzle-js/puzzle-js
+    category: micro-frontend-framework
+    initial_status: historical
+
+  - name: SAHI
+    github: https://github.com/obss/sahi
+    category: computer-vision-framework
+    initial_status: verified
+
+  - name: Stove
+    github: https://github.com/Trendyol/stove
+    category: testing-framework
+    initial_status: pending_verification

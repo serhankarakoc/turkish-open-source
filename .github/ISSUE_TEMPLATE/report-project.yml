@@ -1,0 +1,52 @@
+name: Report Project
+description: Report an incorrect, inactive, duplicate, or mislicensed catalog entry.
+title: "[Report] "
+labels: ["report-project"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to report a problem with an existing catalog entry.
+        Maintainers may correct, recategorize, or remove a project.
+
+  - type: input
+    id: repository_url
+    attributes:
+      label: Repository URL
+      description: GitHub URL of the cataloged project.
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+
+  - type: dropdown
+    id: reason
+    attributes:
+      label: What is wrong?
+      options:
+        - Incorrect classification (not a Turkish project)
+        - Inactive project
+        - Duplicate
+        - Incorrect category
+        - Incorrect Turkey score
+        - Licensing issue
+        - Archived or unmaintained
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain the problem with evidence. Link to GitHub profiles, licenses, or previous catalog entries when possible.
+    validations:
+      required: true
+
+  - type: input
+    id: suggested_fix
+    attributes:
+      label: Suggested fix
+      description: Optional. For example a better category, or a request to mark the project inactive.
+      placeholder: Move to category "devtools" or remove from active rankings.
+    validations:
+      required: false

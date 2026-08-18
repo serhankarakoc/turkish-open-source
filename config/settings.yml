@@ -1,0 +1,42 @@
+scanner:
+  max_workers: 6
+  max_retries: 5
+  request_timeout_seconds: 20
+  retry_backoff_milliseconds: 500
+  max_backoff_seconds: 60
+
+search:
+  max_pages_per_query: 5
+  results_per_page: 100
+  max_repos_per_user: 100
+  max_users_per_scan: 250
+  max_orgs_per_scan: 150
+
+projects:
+  minimum_turkey_score: 75
+  minimum_activity_score: 0
+  minimum_quality_score: 25
+  minimum_stars: 10
+  allow_low_star_exception: true
+  low_star_exception_turkey_score: 85
+  low_star_exception_quality_score: 55
+  include_archived: false
+  include_forks: false
+  require_license: true
+  show_unlicensed: false
+
+enrichment:
+  fetch_owner: true
+  fetch_readme: true
+  fetch_release: true
+  fetch_contributors: false
+
+github:
+  api_version: "2026-03-10"
+  api_url: "https://api.github.com"
+
+readme:
+  trending_limit: 10
+  starred_limit: 15
+  recent_limit: 10
+  category_limit: 40

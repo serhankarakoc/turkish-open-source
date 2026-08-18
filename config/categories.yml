@@ -1,0 +1,228 @@
+categories:
+  framework:
+    label: Frameworks
+    emoji: 🚀
+    topics:
+      - framework
+      - web-framework
+      - backend
+      - laravel
+      - django
+      - rails
+      - spring
+      - nestjs
+      - express
+      - fastapi
+      - gin
+      - echo
+      - fiber
+      - boilerplate
+      - starter
+      - scaffold
+
+  library:
+    label: Libraries
+    emoji: 📚
+    topics:
+      - library
+      - package
+      - module
+      - toolkit
+      - helper
+      - utility
+      - utils
+      - component
+      - adapter
+      - plugin
+
+  ai:
+    label: AI
+    emoji: 🤖
+    topics:
+      - ai
+      - artificial-intelligence
+      - machine-learning
+      - deep-learning
+      - llm
+      - rag
+      - nlp
+      - computer-vision
+      - transformers
+      - openai
+      - huggingface
+
+  database:
+    label: Database
+    emoji: 🗄️
+    topics:
+      - database
+      - orm
+      - sql
+      - nosql
+      - postgres
+      - mysql
+      - mongodb
+      - redis
+      - sqlite
+      - elasticsearch
+
+  devtools:
+    label: Developer Tools
+    emoji: 🛠️
+    topics:
+      - cli
+      - developer-tools
+      - devtools
+      - linter
+      - formatter
+      - testing
+      - build-tool
+      - sdk
+      - compiler
+      - lsp
+      - codegen
+      - generator
+      - analyzer
+      - cli-tool
+
+  security:
+    label: Security
+    emoji: 🔐
+    topics:
+      - security
+      - cybersecurity
+      - pentesting
+      - encryption
+      - authentication
+      - oauth
+      - vulnerability
+      - malware
+
+  mobile:
+    label: Mobile
+    emoji: 📱
+    topics:
+      - android
+      - ios
+      - flutter
+      - react-native
+      - kotlin-android
+      - swiftui
+      - mobile
+
+  web:
+    label: Web
+    emoji: 🌐
+    topics:
+      - web
+      - frontend
+      - backend
+      - fullstack
+      - react
+      - vue
+      - angular
+      - nextjs
+      - svelte
+      - css
+      - html
+
+  api:
+    label: API
+    emoji: 🔌
+    topics:
+      - api
+      - api-client
+      - rest
+      - graphql
+      - grpc
+      - sdk
+      - webhook
+
+  data:
+    label: Data
+    emoji: 📊
+    topics:
+      - data
+      - data-science
+      - analytics
+      - etl
+      - pandas
+      - spark
+      - visualization
+      - big-data
+
+  education:
+    label: Education
+    emoji: 📚
+    topics:
+      - education
+      - e-learning
+      - tutorial
+      - learning
+      - course
+      - university
+
+  gaming:
+    label: Gaming
+    emoji: 🎮
+    topics:
+      - game
+      - gamedev
+      - unity
+      - godot
+      - unreal
+      - game-engine
+
+  desktop:
+    label: Desktop
+    emoji: 💻
+    topics:
+      - desktop
+      - electron
+      - qt
+      - gtk
+      - tauri
+      - wpf
+      - winforms
+
+  devops:
+    label: DevOps
+    emoji: ⚙️
+    topics:
+      - devops
+      - kubernetes
+      - docker
+      - ci-cd
+      - terraform
+      - ansible
+      - monitoring
+      - observability
+
+  networking:
+    label: Networking
+    emoji: 🌍
+    topics:
+      - networking
+      - http
+      - rpc
+      - websocket
+      - proxy
+      - tcp
+      - udp
+
+  applications:
+    label: Applications
+    emoji: 🧩
+    topics:
+      - self-hosted
+      - saas
+      - cms
+      - erp
+      - crm
+      - ecommerce
+      - platform
+
+  other:
+    label: Other
+    emoji: 📦
+    topics: []

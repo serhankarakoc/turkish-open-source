@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "default": "TR",
+  "countries": [
+    {
+      "code": "TR",
+      "names": [
+        "Turkey",
+        "Türkiye",
+        "Turkiye",
+        "Turkei",
+        "Turquie",
+        "Turchia"
+      ],
+      "adjectives": [
+        "Turkish",
+        "Türk",
+        "Türkçe",
+        "Turkce"
+      ],
+      "domains": [
+        ".tr"
+      ]
+    }
+  ]
+}

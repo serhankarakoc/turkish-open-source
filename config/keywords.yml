@@ -1,0 +1,214 @@
+keywords:
+  - turkey
+  - turkiye
+  - türkiye
+  - turkish
+  - türkçe
+  - turkce
+  - türk
+  - made-in-turkey
+  - made in turkey
+  - turkiye-yazilim
+  - turkish-opensource
+
+topics:
+  - turkey
+  - turkiye
+  - turkish
+  - made-in-turkey
+  - turkiye-yazilim
+  - turkish-open-source
+
+# Used with language:<lang> location:<value> repository search.
+country_locations:
+  - Turkey
+  - Türkiye
+  - Turkiye
+
+languages:
+  - Go
+  - Python
+  - JavaScript
+  - TypeScript
+  - Rust
+  - PHP
+  - "C#"
+  - Java
+  - Kotlin
+  - Swift
+  - Dart
+  - C
+  - "C++"
+  - Ruby
+  - Crystal
+  - Scala
+  - Elixir
+  - Haskell
+  - Lua
+  - R
+  - Shell
+
+intent_keywords:
+  framework:
+    - framework
+    - boilerplate
+    - starter
+    - scaffold
+    - web framework
+    - backend framework
+    - api framework
+    - microservice framework
+    - full stack framework
+    - cli framework
+  library:
+    - library
+    - package
+    - module
+    - toolkit
+    - helper
+    - utils
+    - component
+  devtools:
+    - cli
+    - code generator
+    - static analyzer
+    - linter
+    - formatter
+    - test runner
+    - testing tool
+    - developer tool
+    - productivity tool
+    - sdk
+  backend:
+    - orm
+    - migration
+    - authentication
+    - authorization
+    - dependency injection
+    - cache
+    - queue
+    - http client
+    - rpc
+    - messaging
+  devops:
+    - docker
+    - kubernetes
+    - ci/cd
+    - deployment
+    - monitoring
+    - observability
+    - infrastructure automation
+  ai:
+    - llm
+    - rag
+    - mcp
+    - ai agent
+    - embeddings
+    - vector database
+    - nlp
+    - turkish nlp
+  security:
+    - pentesting
+    - cryptography
+    - vulnerability scanner
+    - security tool
+    - auth library
+  frontend:
+    - react library
+    - vue library
+    - component library
+    - ui framework
+    - css framework
+  applications:
+    - self-hosted
+    - open source saas
+    - cms
+    - erp
+    - crm
+    - e-commerce
+  data:
+    - public api
+    - api client
+    - data library
+    - finance api
+    - government api
+    - geographic data
+
+search_phrases:
+  - Turkey developer
+  - Türkiye developer
+  - Turkish developer
+  - Turkish open source
+  - Made in Turkey
+  - Made in Türkiye
+  - Turkey framework
+  - Türkiye framework
+  - Turkish framework
+  - Turkey Go developer
+  - Turkey PHP developer
+  - Turkey Python developer
+  - Turkey JavaScript developer
+  - Turkey Rust developer
+  - Turkey Crystal developer
+  - Turkish library
+  - Turkish CLI
+  - Turkish developer tools
+  - Turkey SaaS
+  - Turkish OSS
+  - Turkey open source
+  - Türkiye open source
+
+priority_topics:
+  - framework
+  - library
+  - cli
+  - sdk
+  - orm
+  - auth
+  - queue
+  - cache
+  - llm
+  - rag
+  - mcp
+  - devtools
+  - api
+  - http
+  - rpc
+
+# Strong lexical signals for README / description language detection.
+# A single keyword is never enough; scoring requires multiple independent signals.
+turkish_stopwords:
+  - ve
+  - bir
+  - için
+  - ile
+  - olan
+  - olarak
+  - bu
+  - da
+  - de
+  - daha
+  - çok
+  - gibi
+  - kadar
+  - sonra
+  - önce
+  - veya
+  - çünkü
+  - ancak
+  - göre
+  - üzerine
+  - arasında
+  - tarafından
+  - kullanılabilir
+  - kütüphane
+  - uygulama
+  - geliştirme
+  - yazılım
+  - açık
+  - kaynak
+  - proje
+  - türkiye
+  - türkçe
+  - istanbul
+  - ankara

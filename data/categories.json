@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-18T10:59:55Z",
+  "categories": [
+    {
+      "key": "other",
+      "label": "Other",
+      "emoji": "📦",
+      "count": 19,
+      "active": 7,
+      "stars": 1863
+    },
+    {
+      "key": "devops",
+      "label": "DevOps",
+      "emoji": "⚙️",
+      "count": 2,
+      "active": 2,
+      "stars": 29
+    },
+    {
+      "key": "framework",
+      "label": "Frameworks",
+      "emoji": "🚀",
+      "count": 2,
+      "active": 2,
+      "stars": 72
+    },
+    {
+      "key": "web",
+      "label": "Web",
+      "emoji": "🌐",
+      "count": 2,
+      "active": 0,
+      "stars": 36
+    },
+    {
+      "key": "gaming",
+      "label": "Gaming",
+      "emoji": "🎮",
+      "count": 1,
+      "active": 1,
+      "stars": 19
+    },
+    {
+      "key": "ai",
+      "label": "AI",
+      "emoji": "🤖",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "api",
+      "label": "API",
+      "emoji": "🔌",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "applications",
+      "label": "Applications",
+      "emoji": "🧩",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "data",
+      "label": "Data",
+      "emoji": "📊",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "database",
+      "label": "Database",
+      "emoji": "🗄️",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "desktop",
+      "label": "Desktop",
+      "emoji": "💻",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "devtools",
+      "label": "Developer Tools",
+      "emoji": "🛠️",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "education",
+      "label": "Education",
+      "emoji": "📚",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "library",
+      "label": "Libraries",
+      "emoji": "📚",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "mobile",
+      "label": "Mobile",
+      "emoji": "📱",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "networking",
+      "label": "Networking",
+      "emoji": "🌍",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    },
+    {
+      "key": "security",
+      "label": "Security",
+      "emoji": "🔐",
+      "count": 0,
+      "active": 0,
+      "stars": 0
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+name: Add Project
+description: Suggest a Turkish open-source GitHub repository for the catalog.
+title: "[Add] "
+labels: ["add-project"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing. The scanner still validates every suggestion.
+        A public GitHub repository is not automatically open source, and a single
+        keyword is not enough to classify a project as Turkish.
+
+  - type: input
+    id: repository_url
+    attributes:
+      label: Repository URL
+      description: Full HTTPS GitHub URL of the project.
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Project description
+      description: What does the project do?
+      placeholder: A short, factual description of the software.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - framework
+        - ai
+        - database
+        - devtools
+        - security
+        - mobile
+        - web
+        - data
+        - education
+        - gaming
+        - desktop
+        - devops
+        - other
+    validations:
+      required: true
+
+  - type: textarea
+    id: turkish_reason
+    attributes:
+      label: Why should this be considered Turkish?
+      description: Independent signals help. Mention maintainer location, organization, language of the README, topics, or a .tr website. One weak keyword is not enough.
+      placeholder: Maintainers are based in Istanbul; the organization lists Turkey as its location; the README is in Turkish.
+    validations:
+      required: true
+
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: SPDX identifier (for example MIT, Apache-2.0). Public repositories without an OSI-style license are not treated as verified open source.
+      placeholder: MIT
+    validations:
+      required: true
+
+  - type: input
+    id: developer
+    attributes:
+      label: Developer / Organization
+      description: GitHub user or organization that maintains the project.
+      placeholder: owner
+    validations:
+      required: true

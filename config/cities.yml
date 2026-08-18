@@ -1,0 +1,42 @@
+# User/location discovery queries are built from this list.
+# Country names and major cities are included so a single weak
+# keyword cannot be the only discovery path.
+locations:
+  - Turkey
+  - Türkiye
+  - Turkiye
+  - Istanbul
+  - İstanbul
+  - Ankara
+  - Izmir
+  - İzmir
+  - Bursa
+  - Antalya
+  - Adana
+  - Konya
+  - Gaziantep
+  - Kayseri
+  - Mersin
+  - Eskisehir
+  - Eskişehir
+  - Diyarbakir
+  - Diyarbakır
+  - Samsun
+  - Trabzon
+  - Erzurum
+  - Van
+  - Denizli
+  - Hatay
+  - Manisa
+  - Kahramanmaras
+  - Kahramanmaraş
+  - Malatya
+  - Tekirdag
+  - Tekirdağ
+  - Balikesir
+  - Balıkesir
+  - Aydin
+  - Aydın
+  - Sakarya
+  - Mugla
+  - Muğla
