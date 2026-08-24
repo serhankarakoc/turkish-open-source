@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-23T03:42:55Z",
+  "generated_at": "2026-08-24T03:46:29Z",
   "frameworks": [
     {
       "name": "ABP Framework",
@@ -8,7 +8,7 @@
       "category": "application-framework",
       "github": "https://github.com/abpframework/abp",
       "website": "https://abp.io",
-      "stars": 14412,
+      "stars": 14413,
       "license": "LGPL-3.0",
       "country_evidence": [
         {
@@ -22,7 +22,7 @@
       "github_repo": "abp",
       "country_score": 30,
       "forks": 3717,
-      "open_issues": 322,
+      "open_issues": 320,
       "watchers": 319,
       "default_branch": "dev",
       "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.",
@@ -43,11 +43,11 @@
         "multi-tenancy",
         "saas"
       ],
-      "last_commit": "2026-08-21T10:04:26Z",
+      "last_commit": "2026-08-24T02:59:46Z",
       "last_release": "2026-07-27T08:14:12Z",
       "created_at": "2016-12-03T22:56:24Z",
-      "updated_at": "2026-08-23T03:00:49Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "updated_at": "2026-08-23T12:04:27Z",
+      "scanned_at": "2026-08-24T03:46:29Z"
     },
     {
       "name": "ASP.NET Boilerplate",
@@ -55,7 +55,7 @@
       "category": "application-framework",
       "github": "https://github.com/aspnetboilerplate/aspnetboilerplate",
       "website": "https://aspnetboilerplate.com",
-      "stars": 12001,
+      "stars": 12004,
       "license": "MIT",
       "country_evidence": [
         {
@@ -69,7 +69,7 @@
       "github_repo": "aspnetboilerplate",
       "country_score": 30,
       "forks": 3815,
-      "open_issues": 63,
+      "open_issues": 62,
       "watchers": 747,
       "default_branch": "dev",
       "description": "ASP.NET Boilerplate - Web Application Framework",
@@ -92,8 +92,8 @@
       "last_commit": "2026-08-20T13:25:08Z",
       "last_release": "2026-07-28T09:01:16Z",
       "created_at": "2013-08-18T20:45:08Z",
-      "updated_at": "2026-08-20T13:47:15Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "updated_at": "2026-08-23T20:16:49Z",
+      "scanned_at": "2026-08-24T03:46:29Z"
     },
     {
       "name": "SAHI",
@@ -145,7 +145,7 @@
       "last_release": "2026-08-16T22:10:28Z",
       "created_at": "2021-01-30T12:54:53Z",
       "updated_at": "2026-08-23T00:25:38Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "scanned_at": "2026-08-24T03:46:29Z"
     },
     {
       "name": "PuzzleJS",
@@ -186,7 +186,7 @@
       "last_release": "2019-08-01T07:01:17Z",
       "created_at": "2018-03-24T14:54:50Z",
       "updated_at": "2026-07-05T16:40:29Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "scanned_at": "2026-08-24T03:46:29Z"
     },
     {
       "name": "VoltranJS",
@@ -226,7 +226,7 @@
       "last_release": "2026-03-26T08:30:59Z",
       "created_at": "2020-12-29T14:12:45Z",
       "updated_at": "2026-07-14T12:46:41Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "scanned_at": "2026-08-24T03:46:29Z"
     },
     {
       "name": "Stove",
@@ -241,7 +241,7 @@
       "github_owner": "Trendyol",
       "github_repo": "stove",
       "forks": 21,
-      "open_issues": 6,
+      "open_issues": 8,
       "watchers": 10,
       "default_branch": "main",
       "description": "Stove: The easiest way of writing e2e/component tests for your JVM back-end app with Kotlin",
@@ -260,11 +260,11 @@
         "testing-framework",
         "testing-tools"
       ],
-      "last_commit": "2026-08-22T23:00:48Z",
+      "last_commit": "2026-08-24T02:00:15Z",
       "last_release": "2026-06-29T11:48:05Z",
       "created_at": "2023-01-18T13:03:34Z",
       "updated_at": "2026-08-07T14:23:52Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "scanned_at": "2026-08-24T03:46:29Z"
     },
     {
       "name": "PrimeFaces",
@@ -272,7 +272,7 @@
       "category": "ui-framework",
       "github": "https://github.com/primefaces/primefaces",
       "website": "http://www.primefaces.org",
-      "stars": 1928,
+      "stars": 1929,
       "license": "MIT",
       "country_evidence": [
         {
@@ -286,15 +286,15 @@
       "github_repo": "primefaces",
       "country_score": 40,
       "forks": 795,
-      "open_issues": 84,
+      "open_issues": 85,
       "watchers": 124,
       "default_branch": "master",
       "description": "Ultimate Component Suite for Jakarta Faces",
-      "last_commit": "2026-08-21T17:38:28Z",
+      "last_commit": "2026-08-23T19:13:00Z",
       "last_release": "2026-08-10T16:35:35Z",
       "created_at": "2015-04-11T09:48:53Z",
-      "updated_at": "2026-08-21T17:48:13Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "updated_at": "2026-08-23T19:13:10Z",
+      "scanned_at": "2026-08-24T03:46:29Z"
     },
     {
       "name": "Kemal",
@@ -315,7 +315,7 @@
       "github_owner": "kemalcr",
       "github_repo": "kemal",
       "country_score": 30,
-      "forks": 202,
+      "forks": 203,
       "open_issues": 3,
       "watchers": 72,
       "default_branch": "master",
@@ -336,7 +336,7 @@
       "last_release": "2026-07-21T11:16:29Z",
       "created_at": "2015-10-23T16:56:29Z",
       "updated_at": "2026-08-22T03:44:10Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "scanned_at": "2026-08-24T03:46:29Z"
     },
     {
       "name": "ZN Framework",
@@ -371,7 +371,7 @@
       "last_release": "2025-03-28T06:00:44Z",
       "created_at": "2015-03-28T12:26:26Z",
       "updated_at": "2026-01-18T11:22:55Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "scanned_at": "2026-08-24T03:46:29Z"
     },
     {
       "name": "ZATRANO",
@@ -401,11 +401,11 @@
       "watchers": 16,
       "default_branch": "main",
       "description": "The Go framework for web artisans — thin kernel, opt-in packages, full-stack DX.",
-      "last_commit": "2026-08-20T18:41:18Z",
-      "last_release": "2026-08-20T18:40:43Z",
+      "last_commit": "2026-08-23T19:53:21Z",
+      "last_release": "2026-08-23T19:53:48Z",
       "created_at": "2026-08-01T10:37:35Z",
-      "updated_at": "2026-08-22T00:51:00Z",
-      "scanned_at": "2026-08-23T03:42:55Z"
+      "updated_at": "2026-08-23T19:53:21Z",
+      "scanned_at": "2026-08-24T03:46:29Z"
     }
   ]
 }
