@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T07:27:54Z",
+  "generated_at": "2026-09-03T07:32:40Z",
   "frameworks": [
     {
       "name": "ABP Framework",
@@ -8,7 +8,7 @@
       "category": "application-framework",
       "github": "https://github.com/abpframework/abp",
       "website": "https://abp.io",
-      "stars": 14419,
+      "stars": 14420,
       "license": "LGPL-3.0",
       "country_evidence": [
         {
@@ -22,7 +22,7 @@
       "github_repo": "abp",
       "country_score": 30,
       "forks": 3717,
-      "open_issues": 326,
+      "open_issues": 312,
       "watchers": 321,
       "default_branch": "dev",
       "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.",
@@ -43,11 +43,11 @@
         "multi-tenancy",
         "saas"
       ],
-      "last_commit": "2026-09-02T06:04:21Z",
+      "last_commit": "2026-09-03T06:00:45Z",
       "last_release": "2026-07-27T08:14:12Z",
       "created_at": "2016-12-03T22:56:24Z",
-      "updated_at": "2026-09-01T22:51:53Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "updated_at": "2026-09-03T06:01:34Z",
+      "scanned_at": "2026-09-03T07:32:40Z"
     },
     {
       "name": "ASP.NET Boilerplate",
@@ -55,7 +55,7 @@
       "category": "application-framework",
       "github": "https://github.com/aspnetboilerplate/aspnetboilerplate",
       "website": "https://aspnetboilerplate.com",
-      "stars": 12001,
+      "stars": 12002,
       "license": "MIT",
       "country_evidence": [
         {
@@ -92,8 +92,8 @@
       "last_commit": "2026-08-20T13:25:08Z",
       "last_release": "2026-07-28T09:01:16Z",
       "created_at": "2013-08-18T20:45:08Z",
-      "updated_at": "2026-09-02T05:56:32Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "updated_at": "2026-09-03T03:15:19Z",
+      "scanned_at": "2026-09-03T07:32:40Z"
     },
     {
       "name": "SAHI",
@@ -114,8 +114,8 @@
       "github_owner": "obss",
       "github_repo": "sahi",
       "country_score": 40,
-      "forks": 781,
-      "open_issues": 1,
+      "forks": 782,
+      "open_issues": 2,
       "watchers": 47,
       "default_branch": "main",
       "description": "Framework agnostic sliced/tiled inference + interactive ui + error analysis plots",
@@ -141,11 +141,11 @@
         "tiling",
         "yolo26"
       ],
-      "last_commit": "2026-08-22T20:39:30Z",
+      "last_commit": "2026-09-03T06:23:30Z",
       "last_release": "2026-08-16T22:10:28Z",
       "created_at": "2021-01-30T12:54:53Z",
       "updated_at": "2026-09-01T18:22:41Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "scanned_at": "2026-09-03T07:32:40Z"
     },
     {
       "name": "PuzzleJS",
@@ -186,7 +186,7 @@
       "last_release": "2019-08-01T07:01:17Z",
       "created_at": "2018-03-24T14:54:50Z",
       "updated_at": "2026-07-05T16:40:29Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "scanned_at": "2026-09-03T07:32:40Z"
     },
     {
       "name": "VoltranJS",
@@ -226,7 +226,7 @@
       "last_release": "2026-03-26T08:30:59Z",
       "created_at": "2020-12-29T14:12:45Z",
       "updated_at": "2026-07-14T12:46:41Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "scanned_at": "2026-09-03T07:32:40Z"
     },
     {
       "name": "Stove",
@@ -260,11 +260,11 @@
         "testing-framework",
         "testing-tools"
       ],
-      "last_commit": "2026-08-31T09:22:06Z",
+      "last_commit": "2026-09-02T19:43:53Z",
       "last_release": "2026-08-24T11:38:26Z",
       "created_at": "2023-01-18T13:03:34Z",
-      "updated_at": "2026-08-31T09:29:41Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "updated_at": "2026-09-02T19:46:04Z",
+      "scanned_at": "2026-09-03T07:32:40Z"
     },
     {
       "name": "PrimeFaces",
@@ -286,15 +286,15 @@
       "github_repo": "primefaces",
       "country_score": 40,
       "forks": 794,
-      "open_issues": 81,
-      "watchers": 124,
+      "open_issues": 88,
+      "watchers": 125,
       "default_branch": "master",
       "description": "Ultimate Component Suite for Jakarta Faces",
-      "last_commit": "2026-08-31T21:03:04Z",
+      "last_commit": "2026-09-02T19:41:28Z",
       "last_release": "2026-08-10T16:35:35Z",
       "created_at": "2015-04-11T09:48:53Z",
-      "updated_at": "2026-08-31T21:00:04Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "updated_at": "2026-09-02T19:42:31Z",
+      "scanned_at": "2026-09-03T07:32:40Z"
     },
     {
       "name": "Kemal",
@@ -302,7 +302,7 @@
       "category": "web-framework",
       "github": "https://github.com/kemalcr/kemal",
       "website": "https://kemalcr.com",
-      "stars": 3912,
+      "stars": 3913,
       "license": "MIT",
       "country_evidence": [
         {
@@ -335,8 +335,8 @@
       "last_commit": "2026-08-30T02:01:13Z",
       "last_release": "2026-08-24T11:33:34Z",
       "created_at": "2015-10-23T16:56:29Z",
-      "updated_at": "2026-08-29T19:29:24Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "updated_at": "2026-09-03T06:43:35Z",
+      "scanned_at": "2026-09-03T07:32:40Z"
     },
     {
       "name": "ZN Framework",
@@ -367,11 +367,11 @@
         "web",
         "zeroneed"
       ],
-      "last_commit": "2025-03-28T06:00:44Z",
-      "last_release": "2025-03-28T06:00:44Z",
+      "last_commit": "2026-09-02T10:14:49Z",
+      "last_release": "2026-09-02T10:16:28Z",
       "created_at": "2015-03-28T12:26:26Z",
-      "updated_at": "2026-01-18T11:22:55Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "updated_at": "2026-09-02T10:15:49Z",
+      "scanned_at": "2026-09-03T07:32:40Z"
     },
     {
       "name": "ZATRANO",
@@ -405,7 +405,7 @@
       "last_release": "2026-08-30T18:33:38Z",
       "created_at": "2026-08-01T10:37:35Z",
       "updated_at": "2026-09-01T10:30:09Z",
-      "scanned_at": "2026-09-02T07:27:54Z"
+      "scanned_at": "2026-09-03T07:32:40Z"
     }
   ]
 }
