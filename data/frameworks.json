@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T07:42:30Z",
+  "generated_at": "2026-09-10T07:40:54Z",
   "frameworks": [
     {
       "name": "ABP Framework",
@@ -8,7 +8,7 @@
       "category": "application-framework",
       "github": "https://github.com/abpframework/abp",
       "website": "https://abp.io",
-      "stars": 14425,
+      "stars": 14426,
       "license": "LGPL-3.0",
       "country_evidence": [
         {
@@ -21,7 +21,7 @@
       "github_owner": "abpframework",
       "github_repo": "abp",
       "country_score": 30,
-      "forks": 3718,
+      "forks": 3716,
       "open_issues": 313,
       "watchers": 322,
       "default_branch": "dev",
@@ -43,11 +43,11 @@
         "multi-tenancy",
         "saas"
       ],
-      "last_commit": "2026-09-09T07:41:30Z",
+      "last_commit": "2026-09-10T05:42:59Z",
       "last_release": "2026-07-27T08:14:12Z",
       "created_at": "2016-12-03T22:56:24Z",
-      "updated_at": "2026-09-09T02:29:26Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "updated_at": "2026-09-09T19:58:10Z",
+      "scanned_at": "2026-09-10T07:40:54Z"
     },
     {
       "name": "ASP.NET Boilerplate",
@@ -55,7 +55,7 @@
       "category": "application-framework",
       "github": "https://github.com/aspnetboilerplate/aspnetboilerplate",
       "website": "https://aspnetboilerplate.com",
-      "stars": 12001,
+      "stars": 12003,
       "license": "MIT",
       "country_evidence": [
         {
@@ -68,7 +68,7 @@
       "github_owner": "aspnetboilerplate",
       "github_repo": "aspnetboilerplate",
       "country_score": 30,
-      "forks": 3814,
+      "forks": 3815,
       "open_issues": 64,
       "watchers": 749,
       "default_branch": "dev",
@@ -92,8 +92,8 @@
       "last_commit": "2026-08-20T13:25:08Z",
       "last_release": "2026-07-28T09:01:16Z",
       "created_at": "2013-08-18T20:45:08Z",
-      "updated_at": "2026-09-08T09:34:27Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "updated_at": "2026-09-10T06:43:22Z",
+      "scanned_at": "2026-09-10T07:40:54Z"
     },
     {
       "name": "SAHI",
@@ -101,7 +101,7 @@
       "category": "computer-vision-framework",
       "github": "https://github.com/obss/sahi",
       "website": "https://obss.github.io/sahi",
-      "stars": 5496,
+      "stars": 5497,
       "license": "MIT",
       "country_evidence": [
         {
@@ -115,7 +115,7 @@
       "github_repo": "sahi",
       "country_score": 40,
       "forks": 784,
-      "open_issues": 2,
+      "open_issues": 4,
       "watchers": 48,
       "default_branch": "main",
       "description": "Framework agnostic sliced/tiled inference + interactive ui + error analysis plots",
@@ -141,11 +141,11 @@
         "tiling",
         "yolo26"
       ],
-      "last_commit": "2026-09-03T20:25:05Z",
+      "last_commit": "2026-09-10T06:24:12Z",
       "last_release": "2026-08-16T22:10:28Z",
       "created_at": "2021-01-30T12:54:53Z",
-      "updated_at": "2026-09-09T04:12:39Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "updated_at": "2026-09-10T07:26:46Z",
+      "scanned_at": "2026-09-10T07:40:54Z"
     },
     {
       "name": "PuzzleJS",
@@ -186,7 +186,7 @@
       "last_release": "2019-08-01T07:01:17Z",
       "created_at": "2018-03-24T14:54:50Z",
       "updated_at": "2026-09-05T13:08:58Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "scanned_at": "2026-09-10T07:40:54Z"
     },
     {
       "name": "VoltranJS",
@@ -226,7 +226,7 @@
       "last_release": "2026-03-26T08:30:59Z",
       "created_at": "2020-12-29T14:12:45Z",
       "updated_at": "2026-07-14T12:46:41Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "scanned_at": "2026-09-10T07:40:54Z"
     },
     {
       "name": "Stove",
@@ -264,7 +264,7 @@
       "last_release": "2026-09-04T14:33:11Z",
       "created_at": "2023-01-18T13:03:34Z",
       "updated_at": "2026-09-08T15:45:32Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "scanned_at": "2026-09-10T07:40:54Z"
     },
     {
       "name": "PrimeFaces",
@@ -286,15 +286,15 @@
       "github_repo": "primefaces",
       "country_score": 40,
       "forks": 797,
-      "open_issues": 82,
+      "open_issues": 85,
       "watchers": 122,
       "default_branch": "master",
       "description": "Ultimate Component Suite for Jakarta Faces",
-      "last_commit": "2026-09-08T17:44:10Z",
+      "last_commit": "2026-09-09T17:20:13Z",
       "last_release": "2026-09-04T07:15:38Z",
       "created_at": "2015-04-11T09:48:53Z",
       "updated_at": "2026-09-08T17:45:17Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "scanned_at": "2026-09-10T07:40:54Z"
     },
     {
       "name": "Kemal",
@@ -302,7 +302,7 @@
       "category": "web-framework",
       "github": "https://github.com/kemalcr/kemal",
       "website": "https://kemalcr.com",
-      "stars": 3913,
+      "stars": 3912,
       "license": "MIT",
       "country_evidence": [
         {
@@ -335,8 +335,8 @@
       "last_commit": "2026-09-08T14:32:47Z",
       "last_release": "2026-08-24T11:33:34Z",
       "created_at": "2015-10-23T16:56:29Z",
-      "updated_at": "2026-09-08T14:38:13Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "updated_at": "2026-09-09T10:02:46Z",
+      "scanned_at": "2026-09-10T07:40:54Z"
     },
     {
       "name": "ZN Framework",
@@ -371,7 +371,7 @@
       "last_release": "2026-09-02T10:16:28Z",
       "created_at": "2015-03-28T12:26:26Z",
       "updated_at": "2026-09-02T10:15:49Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "scanned_at": "2026-09-10T07:40:54Z"
     },
     {
       "name": "ZATRANO",
@@ -401,11 +401,11 @@
       "watchers": 18,
       "default_branch": "main",
       "description": "A Go application platform for building production-grade software.",
-      "last_commit": "2026-09-08T22:34:27Z",
-      "last_release": "2026-09-08T21:04:06Z",
+      "last_commit": "2026-09-09T20:14:13Z",
+      "last_release": "2026-09-09T20:15:41Z",
       "created_at": "2026-08-01T10:37:35Z",
-      "updated_at": "2026-09-08T22:34:31Z",
-      "scanned_at": "2026-09-09T07:42:30Z"
+      "updated_at": "2026-09-09T20:14:24Z",
+      "scanned_at": "2026-09-10T07:40:54Z"
     }
   ]
 }
