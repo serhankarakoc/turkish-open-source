@@ -16,7 +16,7 @@ Kaynak: [data/frameworks.json](data/frameworks.json) · [data/projects.json](dat
 
 | Framework | Website | Dil | Kategori | Stars | Lisans |
 |---|---|---|---|---:|---|
-| [ABP Framework](https://github.com/abpframework/abp) | [abp.io](https://abp.io) | C# | Application | 14426 | LGPL-3.0 |
+| [ABP Framework](https://github.com/abpframework/abp) | [abp.io](https://abp.io) | C# | Application | 14428 | LGPL-3.0 |
 | [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | [aspnetboilerplate.com](https://aspnetboilerplate.com) | C# | Application | 12003 | MIT |
 | [SAHI](https://github.com/obss/sahi) | [obss.github.io](https://obss.github.io/sahi) | Python | Computer vision | 5497 | MIT |
 | [Kemal](https://github.com/kemalcr/kemal) | [kemalcr.com](https://kemalcr.com) | Crystal | Web | 3912 | MIT |
@@ -25,7 +25,7 @@ Kaynak: [data/frameworks.json](data/frameworks.json) · [data/projects.json](dat
 | [VoltranJS](https://github.com/hepsiburada/VoltranJS) | [hepsiburada.com](https://www.hepsiburada.com) | JavaScript | Micro frontend | 414 | MIT |
 | [Stove](https://github.com/Trendyol/stove) | [trendyol.github.io](https://trendyol.github.io/stove) | Kotlin | Testing | 310 | Apache-2.0 |
 | [ZN Framework](https://github.com/znframework/znframework) | [znframework.com](https://www.znframework.com) | PHP | Web | 87 | MIT |
-| [ZATRANO](https://github.com/zatrano/framework) | [zatrano.com](https://zatrano.com) | Go | Web | 18 | MIT |
+| [ZATRANO](https://github.com/zatrano/framework) | [zatrano.com](https://zatrano.com) | Go | Web | 19 | MIT |
 
 ## Katkı
 
