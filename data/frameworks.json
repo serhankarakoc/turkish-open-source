@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T07:29:20Z",
+  "generated_at": "2026-09-13T07:49:53Z",
   "frameworks": [
     {
       "name": "ABP Framework",
@@ -47,7 +47,7 @@
       "last_release": "2026-07-27T08:14:12Z",
       "created_at": "2016-12-03T22:56:24Z",
       "updated_at": "2026-09-11T18:52:17Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "scanned_at": "2026-09-13T07:49:53Z"
     },
     {
       "name": "ASP.NET Boilerplate",
@@ -55,7 +55,7 @@
       "category": "application-framework",
       "github": "https://github.com/aspnetboilerplate/aspnetboilerplate",
       "website": "https://aspnetboilerplate.com",
-      "stars": 12003,
+      "stars": 12002,
       "license": "MIT",
       "country_evidence": [
         {
@@ -92,8 +92,8 @@
       "last_commit": "2026-09-11T08:42:32Z",
       "last_release": "2026-07-28T09:01:16Z",
       "created_at": "2013-08-18T20:45:08Z",
-      "updated_at": "2026-09-11T08:42:42Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "updated_at": "2026-09-12T15:41:29Z",
+      "scanned_at": "2026-09-13T07:49:53Z"
     },
     {
       "name": "SAHI",
@@ -145,7 +145,7 @@
       "last_release": "2026-08-16T22:10:28Z",
       "created_at": "2021-01-30T12:54:53Z",
       "updated_at": "2026-09-11T08:58:14Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "scanned_at": "2026-09-13T07:49:53Z"
     },
     {
       "name": "PuzzleJS",
@@ -186,7 +186,7 @@
       "last_release": "2019-08-01T07:01:17Z",
       "created_at": "2018-03-24T14:54:50Z",
       "updated_at": "2026-09-05T13:08:58Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "scanned_at": "2026-09-13T07:49:53Z"
     },
     {
       "name": "VoltranJS",
@@ -226,7 +226,7 @@
       "last_release": "2026-03-26T08:30:59Z",
       "created_at": "2020-12-29T14:12:45Z",
       "updated_at": "2026-07-14T12:46:41Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "scanned_at": "2026-09-13T07:49:53Z"
     },
     {
       "name": "Stove",
@@ -264,7 +264,7 @@
       "last_release": "2026-09-10T14:11:21Z",
       "created_at": "2023-01-18T13:03:34Z",
       "updated_at": "2026-09-10T14:09:51Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "scanned_at": "2026-09-13T07:49:53Z"
     },
     {
       "name": "PrimeFaces",
@@ -286,15 +286,15 @@
       "github_repo": "primefaces",
       "country_score": 40,
       "forks": 797,
-      "open_issues": 87,
+      "open_issues": 89,
       "watchers": 122,
       "default_branch": "master",
       "description": "Ultimate Component Suite for Jakarta Faces",
-      "last_commit": "2026-09-11T19:57:41Z",
+      "last_commit": "2026-09-12T20:22:29Z",
       "last_release": "2026-09-04T07:15:38Z",
       "created_at": "2015-04-11T09:48:53Z",
-      "updated_at": "2026-09-11T19:15:06Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "updated_at": "2026-09-12T20:22:24Z",
+      "scanned_at": "2026-09-13T07:49:53Z"
     },
     {
       "name": "Kemal",
@@ -332,11 +332,11 @@
         "web-framework",
         "websocket"
       ],
-      "last_commit": "2026-09-11T14:12:34Z",
+      "last_commit": "2026-09-12T13:48:28Z",
       "last_release": "2026-08-24T11:33:34Z",
       "created_at": "2015-10-23T16:56:29Z",
       "updated_at": "2026-09-11T20:32:29Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "scanned_at": "2026-09-13T07:49:53Z"
     },
     {
       "name": "ZN Framework",
@@ -371,7 +371,7 @@
       "last_release": "2026-09-02T10:16:28Z",
       "created_at": "2015-03-28T12:26:26Z",
       "updated_at": "2026-09-02T10:15:49Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "scanned_at": "2026-09-13T07:49:53Z"
     },
     {
       "name": "ZATRANO",
@@ -405,7 +405,7 @@
       "last_release": "2026-09-11T13:01:01Z",
       "created_at": "2026-08-01T10:37:35Z",
       "updated_at": "2026-09-11T13:00:35Z",
-      "scanned_at": "2026-09-12T07:29:20Z"
+      "scanned_at": "2026-09-13T07:49:53Z"
     }
   ]
 }

@@ -17,7 +17,7 @@ Kaynak: [data/frameworks.json](data/frameworks.json) · [data/projects.json](dat
 | Framework | Website | Dil | Kategori | Stars | Lisans |
 |---|---|---|---|---:|---|
 | [ABP Framework](https://github.com/abpframework/abp) | [abp.io](https://abp.io) | C# | Application | 14429 | LGPL-3.0 |
-| [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | [aspnetboilerplate.com](https://aspnetboilerplate.com) | C# | Application | 12003 | MIT |
+| [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | [aspnetboilerplate.com](https://aspnetboilerplate.com) | C# | Application | 12002 | MIT |
 | [SAHI](https://github.com/obss/sahi) | [obss.github.io](https://obss.github.io/sahi) | Python | Computer vision | 5498 | MIT |
 | [Kemal](https://github.com/kemalcr/kemal) | [kemalcr.com](https://kemalcr.com) | Crystal | Web | 3913 | MIT |
 | [PrimeFaces](https://github.com/primefaces/primefaces) | [primefaces.org](http://www.primefaces.org) | Java | UI | 1932 | MIT |
