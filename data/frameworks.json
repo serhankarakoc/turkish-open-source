@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T08:06:51Z",
+  "generated_at": "2026-09-17T08:13:04Z",
   "frameworks": [
     {
       "name": "ABP Framework",
@@ -8,7 +8,7 @@
       "category": "application-framework",
       "github": "https://github.com/abpframework/abp",
       "website": "https://abp.io",
-      "stars": 14436,
+      "stars": 14434,
       "license": "LGPL-3.0",
       "country_evidence": [
         {
@@ -21,8 +21,8 @@
       "github_owner": "abpframework",
       "github_repo": "abp",
       "country_score": 30,
-      "forks": 3716,
-      "open_issues": 313,
+      "forks": 3718,
+      "open_issues": 311,
       "watchers": 322,
       "default_branch": "dev",
       "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.",
@@ -43,11 +43,11 @@
         "multi-tenancy",
         "saas"
       ],
-      "last_commit": "2026-09-16T07:32:00Z",
+      "last_commit": "2026-09-17T07:56:46Z",
       "last_release": "2026-09-14T07:56:54Z",
       "created_at": "2016-12-03T22:56:24Z",
-      "updated_at": "2026-09-16T08:06:45Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "updated_at": "2026-09-17T07:56:53Z",
+      "scanned_at": "2026-09-17T08:13:04Z"
     },
     {
       "name": "ASP.NET Boilerplate",
@@ -68,7 +68,7 @@
       "github_owner": "aspnetboilerplate",
       "github_repo": "aspnetboilerplate",
       "country_score": 30,
-      "forks": 3815,
+      "forks": 3816,
       "open_issues": 62,
       "watchers": 749,
       "default_branch": "dev",
@@ -93,7 +93,7 @@
       "last_release": "2026-07-28T09:01:16Z",
       "created_at": "2013-08-18T20:45:08Z",
       "updated_at": "2026-09-13T21:13:55Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "scanned_at": "2026-09-17T08:13:04Z"
     },
     {
       "name": "SAHI",
@@ -101,7 +101,7 @@
       "category": "computer-vision-framework",
       "github": "https://github.com/obss/sahi",
       "website": "https://obss.github.io/sahi",
-      "stars": 5500,
+      "stars": 5501,
       "license": "MIT",
       "country_evidence": [
         {
@@ -115,7 +115,7 @@
       "github_repo": "sahi",
       "country_score": 40,
       "forks": 784,
-      "open_issues": 5,
+      "open_issues": 6,
       "watchers": 48,
       "default_branch": "main",
       "description": "Framework agnostic sliced/tiled inference + interactive ui + error analysis plots",
@@ -141,11 +141,11 @@
         "tiling",
         "yolo26"
       ],
-      "last_commit": "2026-09-10T06:24:12Z",
+      "last_commit": "2026-09-17T06:24:08Z",
       "last_release": "2026-08-16T22:10:28Z",
       "created_at": "2021-01-30T12:54:53Z",
-      "updated_at": "2026-09-15T23:04:14Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "updated_at": "2026-09-17T05:52:14Z",
+      "scanned_at": "2026-09-17T08:13:04Z"
     },
     {
       "name": "PuzzleJS",
@@ -186,7 +186,7 @@
       "last_release": "2019-08-01T07:01:17Z",
       "created_at": "2018-03-24T14:54:50Z",
       "updated_at": "2026-09-05T13:08:58Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "scanned_at": "2026-09-17T08:13:04Z"
     },
     {
       "name": "VoltranJS",
@@ -226,7 +226,7 @@
       "last_release": "2026-03-26T08:30:59Z",
       "created_at": "2020-12-29T14:12:45Z",
       "updated_at": "2026-07-14T12:46:41Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "scanned_at": "2026-09-17T08:13:04Z"
     },
     {
       "name": "Stove",
@@ -264,7 +264,7 @@
       "last_release": "2026-09-10T14:11:21Z",
       "created_at": "2023-01-18T13:03:34Z",
       "updated_at": "2026-09-14T08:30:06Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "scanned_at": "2026-09-17T08:13:04Z"
     },
     {
       "name": "PrimeFaces",
@@ -294,7 +294,7 @@
       "last_release": "2026-09-04T07:15:38Z",
       "created_at": "2015-04-11T09:48:53Z",
       "updated_at": "2026-09-15T18:23:41Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "scanned_at": "2026-09-17T08:13:04Z"
     },
     {
       "name": "Kemal",
@@ -302,7 +302,7 @@
       "category": "web-framework",
       "github": "https://github.com/kemalcr/kemal",
       "website": "https://kemalcr.com",
-      "stars": 3917,
+      "stars": 3918,
       "license": "MIT",
       "country_evidence": [
         {
@@ -335,8 +335,8 @@
       "last_commit": "2026-09-15T11:22:13Z",
       "last_release": "2026-09-15T11:23:15Z",
       "created_at": "2015-10-23T16:56:29Z",
-      "updated_at": "2026-09-15T19:45:47Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "updated_at": "2026-09-17T04:52:53Z",
+      "scanned_at": "2026-09-17T08:13:04Z"
     },
     {
       "name": "ZN Framework",
@@ -371,7 +371,7 @@
       "last_release": "2026-09-02T10:16:28Z",
       "created_at": "2015-03-28T12:26:26Z",
       "updated_at": "2026-09-02T10:15:49Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "scanned_at": "2026-09-17T08:13:04Z"
     },
     {
       "name": "ZATRANO",
@@ -379,7 +379,7 @@
       "category": "web-framework",
       "github": "https://github.com/zatrano/framework",
       "website": "https://zatrano.com",
-      "stars": 19,
+      "stars": 20,
       "license": "MIT",
       "country_evidence": [
         {
@@ -398,14 +398,14 @@
       "github_repo": "framework",
       "country_score": 60,
       "forks": 4,
-      "watchers": 19,
+      "watchers": 20,
       "default_branch": "main",
       "description": "A Go application platform for building production-grade software.",
-      "last_commit": "2026-09-15T17:34:09Z",
+      "last_commit": "2026-09-16T10:28:45Z",
       "last_release": "2026-09-15T17:38:27Z",
       "created_at": "2026-08-01T10:37:35Z",
-      "updated_at": "2026-09-15T17:33:55Z",
-      "scanned_at": "2026-09-16T08:06:51Z"
+      "updated_at": "2026-09-16T12:27:27Z",
+      "scanned_at": "2026-09-17T08:13:04Z"
     }
   ]
 }
