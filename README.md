@@ -16,11 +16,11 @@ Kaynak: [data/frameworks.json](data/frameworks.json) · [data/projects.json](dat
 
 | Framework | Website | Dil | Kategori | Stars | Lisans |
 |---|---|---|---|---:|---|
-| [ABP Framework](https://github.com/abpframework/abp) | [abp.io](https://abp.io) | C# | Application | 14443 | LGPL-3.0 |
-| [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | [aspnetboilerplate.com](https://aspnetboilerplate.com) | C# | Application | 11999 | MIT |
-| [SAHI](https://github.com/obss/sahi) | [obss.github.io](https://obss.github.io/sahi) | Python | Computer vision | 5534 | MIT |
+| [ABP Framework](https://github.com/abpframework/abp) | [abp.io](https://abp.io) | C# | Application | 14444 | LGPL-3.0 |
+| [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | [aspnetboilerplate.com](https://aspnetboilerplate.com) | C# | Application | 11998 | MIT |
+| [SAHI](https://github.com/obss/sahi) | [obss.github.io](https://obss.github.io/sahi) | Python | Computer vision | 5537 | MIT |
 | [Kemal](https://github.com/kemalcr/kemal) | [kemalcr.com](https://kemalcr.com) | Crystal | Web | 3922 | MIT |
-| [PrimeFaces](https://github.com/primefaces/primefaces) | [primefaces.org](http://www.primefaces.org) | Java | UI | 1936 | MIT |
+| [PrimeFaces](https://github.com/primefaces/primefaces) | [primefaces.org](http://www.primefaces.org) | Java | UI | 1937 | MIT |
 | [PuzzleJS](https://github.com/puzzle-js/puzzle-js) | [puzzle-js.github.io](https://puzzle-js.github.io/puzzle-js) | TypeScript | Micro frontend | 664 | MIT |
 | [VoltranJS](https://github.com/hepsiburada/VoltranJS) | [hepsiburada.com](https://www.hepsiburada.com) | JavaScript | Micro frontend | 414 | MIT |
 | [Stove](https://github.com/Trendyol/stove) | [trendyol.github.io](https://trendyol.github.io/stove) | Kotlin | Testing | 310 | Apache-2.0 |
