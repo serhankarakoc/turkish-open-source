@@ -20,7 +20,7 @@ Kaynak: [data/frameworks.json](data/frameworks.json) · [data/projects.json](dat
 | [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | [aspnetboilerplate.com](https://aspnetboilerplate.com) | C# | Application | 11998 | MIT |
 | [SAHI](https://github.com/obss/sahi) | [obss.github.io](https://obss.github.io/sahi) | Python | Computer vision | 5541 | MIT |
 | [Kemal](https://github.com/kemalcr/kemal) | [kemalcr.com](https://kemalcr.com) | Crystal | Web | 3923 | MIT |
-| [PrimeFaces](https://github.com/primefaces/primefaces) | [primefaces.org](http://www.primefaces.org) | Java | UI | 1937 | MIT |
+| [PrimeFaces](https://github.com/primefaces/primefaces) | [primefaces.org](http://www.primefaces.org) | Java | UI | 1938 | MIT |
 | [PuzzleJS](https://github.com/puzzle-js/puzzle-js) | [puzzle-js.github.io](https://puzzle-js.github.io/puzzle-js) | TypeScript | Micro frontend | 664 | MIT |
 | [VoltranJS](https://github.com/hepsiburada/VoltranJS) | [hepsiburada.com](https://www.hepsiburada.com) | JavaScript | Micro frontend | 415 | MIT |
 | [Stove](https://github.com/Trendyol/stove) | [trendyol.github.io](https://trendyol.github.io/stove) | Kotlin | Testing | 310 | Apache-2.0 |
