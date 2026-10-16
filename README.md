@@ -16,12 +16,12 @@ Kaynak: [data/frameworks.json](data/frameworks.json) · [data/projects.json](dat
 
 | Framework | Website | Dil | Kategori | Stars | Lisans |
 |---|---|---|---|---:|---|
-| [ABP Framework](https://github.com/abpframework/abp) | [abp.io](https://abp.io) | C# | Application | 14445 | LGPL-3.0 |
-| [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | [aspnetboilerplate.com](https://aspnetboilerplate.com) | C# | Application | 11996 | MIT |
-| [SAHI](https://github.com/obss/sahi) | [obss.github.io](https://obss.github.io/sahi) | Python | Computer vision | 5549 | MIT |
-| [Kemal](https://github.com/kemalcr/kemal) | [kemalcr.com](https://kemalcr.com) | Crystal | Web | 3922 | MIT |
+| [ABP Framework](https://github.com/abpframework/abp) | [abp.io](https://abp.io) | C# | Application | 14443 | LGPL-3.0 |
+| [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | [aspnetboilerplate.com](https://aspnetboilerplate.com) | C# | Application | 11994 | MIT |
+| [SAHI](https://github.com/obss/sahi) | [obss.github.io](https://obss.github.io/sahi) | Python | Computer vision | 5552 | MIT |
+| [Kemal](https://github.com/kemalcr/kemal) | [kemalcr.com](https://kemalcr.com) | Crystal | Web | 3925 | MIT |
 | [PrimeFaces](https://github.com/primefaces/primefaces) | [primefaces.org](http://www.primefaces.org) | Java | UI | 1939 | MIT |
-| [PuzzleJS](https://github.com/puzzle-js/puzzle-js) | [puzzle-js.github.io](https://puzzle-js.github.io/puzzle-js) | TypeScript | Micro frontend | 664 | MIT |
+| [PuzzleJS](https://github.com/puzzle-js/puzzle-js) | [puzzle-js.github.io](https://puzzle-js.github.io/puzzle-js) | TypeScript | Micro frontend | 663 | MIT |
 | [VoltranJS](https://github.com/hepsiburada/VoltranJS) | [hepsiburada.com](https://www.hepsiburada.com) | JavaScript | Micro frontend | 415 | MIT |
 | [Stove](https://github.com/Trendyol/stove) | [trendyol.github.io](https://trendyol.github.io/stove) | Kotlin | Testing | 311 | Apache-2.0 |
 | [ZN Framework](https://github.com/znframework/znframework) | [znframework.com](https://www.znframework.com) | PHP | Web | 88 | MIT |
