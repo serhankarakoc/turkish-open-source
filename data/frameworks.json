@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-18T07:35:28Z",
+  "generated_at": "2026-10-19T08:18:19Z",
   "frameworks": [
     {
       "name": "ABP Framework",
@@ -43,11 +43,11 @@
         "multi-tenancy",
         "saas"
       ],
-      "last_commit": "2026-10-17T10:58:57Z",
+      "last_commit": "2026-10-19T07:53:17Z",
       "last_release": "2026-10-06T10:30:21Z",
       "created_at": "2016-12-03T22:56:24Z",
-      "updated_at": "2026-10-16T21:00:37Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "updated_at": "2026-10-19T06:28:59Z",
+      "scanned_at": "2026-10-19T08:18:19Z"
     },
     {
       "name": "ASP.NET Boilerplate",
@@ -93,7 +93,7 @@
       "last_release": "2026-10-13T06:17:29Z",
       "created_at": "2013-08-18T20:45:08Z",
       "updated_at": "2026-10-17T09:27:25Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "scanned_at": "2026-10-19T08:18:19Z"
     },
     {
       "name": "SAHI",
@@ -101,7 +101,7 @@
       "category": "computer-vision-framework",
       "github": "https://github.com/obss/sahi",
       "website": "https://obss.github.io/sahi",
-      "stars": 5554,
+      "stars": 5555,
       "license": "MIT",
       "country_evidence": [
         {
@@ -144,8 +144,8 @@
       "last_commit": "2026-10-16T17:40:34Z",
       "last_release": "2026-09-30T16:52:52Z",
       "created_at": "2021-01-30T12:54:53Z",
-      "updated_at": "2026-10-17T10:38:06Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "updated_at": "2026-10-19T02:55:32Z",
+      "scanned_at": "2026-10-19T08:18:19Z"
     },
     {
       "name": "PuzzleJS",
@@ -186,7 +186,7 @@
       "last_release": "2019-08-01T07:01:17Z",
       "created_at": "2018-03-24T14:54:50Z",
       "updated_at": "2026-10-15T17:40:29Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "scanned_at": "2026-10-19T08:18:19Z"
     },
     {
       "name": "VoltranJS",
@@ -226,7 +226,7 @@
       "last_release": "2026-03-26T08:30:59Z",
       "created_at": "2020-12-29T14:12:45Z",
       "updated_at": "2026-10-09T09:18:46Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "scanned_at": "2026-10-19T08:18:19Z"
     },
     {
       "name": "Stove",
@@ -241,7 +241,7 @@
       "github_owner": "Trendyol",
       "github_repo": "stove",
       "forks": 20,
-      "open_issues": 1,
+      "open_issues": 9,
       "watchers": 10,
       "default_branch": "main",
       "description": "Stove: The easiest way of writing e2e/component tests for your back-end app (jvm, go, rust, node, etc) with Kotlin",
@@ -260,11 +260,11 @@
         "testing-framework",
         "testing-tools"
       ],
-      "last_commit": "2026-10-12T10:29:10Z",
+      "last_commit": "2026-10-19T07:31:49Z",
       "last_release": "2026-10-07T14:21:45Z",
       "created_at": "2023-01-18T13:03:34Z",
       "updated_at": "2026-10-15T06:26:45Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "scanned_at": "2026-10-19T08:18:19Z"
     },
     {
       "name": "PrimeFaces",
@@ -286,15 +286,15 @@
       "github_repo": "primefaces",
       "country_score": 40,
       "forks": 801,
-      "open_issues": 79,
+      "open_issues": 80,
       "watchers": 123,
       "default_branch": "master",
       "description": "Ultimate Component Suite for Jakarta Faces",
-      "last_commit": "2026-10-17T15:06:18Z",
+      "last_commit": "2026-10-18T21:13:04Z",
       "last_release": "2026-10-16T14:28:55Z",
       "created_at": "2015-04-11T09:48:53Z",
       "updated_at": "2026-10-18T04:05:09Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "scanned_at": "2026-10-19T08:18:19Z"
     },
     {
       "name": "Kemal",
@@ -302,7 +302,7 @@
       "category": "web-framework",
       "github": "https://github.com/kemalcr/kemal",
       "website": "https://kemalcr.com",
-      "stars": 3927,
+      "stars": 3928,
       "license": "MIT",
       "country_evidence": [
         {
@@ -335,8 +335,8 @@
       "last_commit": "2026-10-17T11:31:06Z",
       "last_release": "2026-10-17T11:31:14Z",
       "created_at": "2015-10-23T16:56:29Z",
-      "updated_at": "2026-10-17T22:02:14Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "updated_at": "2026-10-18T15:37:46Z",
+      "scanned_at": "2026-10-19T08:18:19Z"
     },
     {
       "name": "ZN Framework",
@@ -371,7 +371,7 @@
       "last_release": "2026-10-02T16:36:01Z",
       "created_at": "2015-03-28T12:26:26Z",
       "updated_at": "2026-10-05T12:47:43Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "scanned_at": "2026-10-19T08:18:19Z"
     },
     {
       "name": "ZATRANO",
@@ -405,7 +405,7 @@
       "last_release": "2026-10-16T15:27:58Z",
       "created_at": "2026-08-01T10:37:35Z",
       "updated_at": "2026-10-16T15:22:52Z",
-      "scanned_at": "2026-10-18T07:35:28Z"
+      "scanned_at": "2026-10-19T08:18:19Z"
     }
   ]
 }
