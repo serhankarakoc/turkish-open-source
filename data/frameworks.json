@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T09:20:00Z",
+  "generated_at": "2026-10-31T09:07:01Z",
   "frameworks": [
     {
       "name": "ABP Framework",
@@ -8,7 +8,7 @@
       "category": "application-framework",
       "github": "https://github.com/abpframework/abp",
       "website": "https://abp.io",
-      "stars": 14462,
+      "stars": 14464,
       "license": "LGPL-3.0",
       "country_evidence": [
         {
@@ -22,7 +22,7 @@
       "github_repo": "abp",
       "country_score": 30,
       "forks": 3708,
-      "open_issues": 311,
+      "open_issues": 310,
       "watchers": 321,
       "default_branch": "dev",
       "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.",
@@ -43,11 +43,11 @@
         "multi-tenancy",
         "saas"
       ],
-      "last_commit": "2026-10-30T08:59:04Z",
+      "last_commit": "2026-10-30T12:16:54Z",
       "last_release": "2026-10-06T10:30:21Z",
       "created_at": "2016-12-03T22:56:24Z",
-      "updated_at": "2026-10-30T08:58:28Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "updated_at": "2026-10-30T17:02:53Z",
+      "scanned_at": "2026-10-31T09:07:01Z"
     },
     {
       "name": "ASP.NET Boilerplate",
@@ -93,7 +93,7 @@
       "last_release": "2026-10-13T06:17:29Z",
       "created_at": "2013-08-18T20:45:08Z",
       "updated_at": "2026-10-28T02:44:59Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "scanned_at": "2026-10-31T09:07:01Z"
     },
     {
       "name": "SAHI",
@@ -101,7 +101,7 @@
       "category": "computer-vision-framework",
       "github": "https://github.com/obss/sahi",
       "website": "https://obss.github.io/sahi",
-      "stars": 5574,
+      "stars": 5575,
       "license": "MIT",
       "country_evidence": [
         {
@@ -114,7 +114,7 @@
       "github_owner": "obss",
       "github_repo": "sahi",
       "country_score": 40,
-      "forks": 794,
+      "forks": 793,
       "open_issues": 11,
       "watchers": 47,
       "default_branch": "main",
@@ -144,8 +144,8 @@
       "last_commit": "2026-10-29T06:24:01Z",
       "last_release": "2026-09-30T16:52:52Z",
       "created_at": "2021-01-30T12:54:53Z",
-      "updated_at": "2026-10-29T16:24:01Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "updated_at": "2026-10-30T13:03:27Z",
+      "scanned_at": "2026-10-31T09:07:01Z"
     },
     {
       "name": "PuzzleJS",
@@ -186,7 +186,7 @@
       "last_release": "2019-08-01T07:01:17Z",
       "created_at": "2018-03-24T14:54:50Z",
       "updated_at": "2026-10-15T17:40:29Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "scanned_at": "2026-10-31T09:07:01Z"
     },
     {
       "name": "VoltranJS",
@@ -226,7 +226,7 @@
       "last_release": "2026-03-26T08:30:59Z",
       "created_at": "2020-12-29T14:12:45Z",
       "updated_at": "2026-10-09T09:18:46Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "scanned_at": "2026-10-31T09:07:01Z"
     },
     {
       "name": "Stove",
@@ -234,14 +234,14 @@
       "category": "testing-framework",
       "github": "https://github.com/Trendyol/stove",
       "website": "https://trendyol.github.io/stove",
-      "stars": 311,
+      "stars": 310,
       "license": "Apache-2.0",
       "country_evidence": [],
       "status": "pending_verification",
       "github_owner": "Trendyol",
       "github_repo": "stove",
       "forks": 20,
-      "open_issues": 2,
+      "open_issues": 1,
       "watchers": 10,
       "default_branch": "main",
       "description": "Stove: The easiest way of writing e2e/component tests for your back-end app (jvm, go, rust, node, etc) with Kotlin",
@@ -260,11 +260,11 @@
         "testing-framework",
         "testing-tools"
       ],
-      "last_commit": "2026-10-30T09:03:19Z",
+      "last_commit": "2026-10-30T13:13:36Z",
       "last_release": "2026-10-26T11:16:33Z",
       "created_at": "2023-01-18T13:03:34Z",
-      "updated_at": "2026-10-30T09:01:26Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "updated_at": "2026-10-30T13:13:39Z",
+      "scanned_at": "2026-10-31T09:07:01Z"
     },
     {
       "name": "PrimeFaces",
@@ -286,15 +286,15 @@
       "github_repo": "primefaces",
       "country_score": 40,
       "forks": 802,
-      "open_issues": 59,
+      "open_issues": 66,
       "watchers": 123,
       "default_branch": "master",
       "description": "Ultimate Component Suite for Jakarta Faces",
-      "last_commit": "2026-10-30T01:11:53Z",
+      "last_commit": "2026-10-30T16:43:27Z",
       "last_release": "2026-10-16T14:28:55Z",
       "created_at": "2015-04-11T09:48:53Z",
-      "updated_at": "2026-10-30T01:11:49Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "updated_at": "2026-10-31T02:21:51Z",
+      "scanned_at": "2026-10-31T09:07:01Z"
     },
     {
       "name": "Kemal",
@@ -335,8 +335,8 @@
       "last_commit": "2026-10-26T16:01:52Z",
       "last_release": "2026-10-17T11:31:14Z",
       "created_at": "2015-10-23T16:56:29Z",
-      "updated_at": "2026-10-29T15:09:11Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "updated_at": "2026-10-30T16:59:32Z",
+      "scanned_at": "2026-10-31T09:07:01Z"
     },
     {
       "name": "ZN Framework",
@@ -371,7 +371,7 @@
       "last_release": "2026-10-02T16:36:01Z",
       "created_at": "2015-03-28T12:26:26Z",
       "updated_at": "2026-10-05T12:47:43Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "scanned_at": "2026-10-31T09:07:01Z"
     },
     {
       "name": "ZATRANO",
@@ -406,7 +406,7 @@
       "last_release": "2026-10-16T15:27:58Z",
       "created_at": "2026-08-01T10:37:35Z",
       "updated_at": "2026-10-16T15:22:52Z",
-      "scanned_at": "2026-10-30T09:20:00Z"
+      "scanned_at": "2026-10-31T09:07:01Z"
     }
   ]
 }
