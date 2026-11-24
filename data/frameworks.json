@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T11:32:59Z",
+  "generated_at": "2026-11-24T13:07:04Z",
   "frameworks": [
     {
       "name": "ABP Framework",
@@ -8,7 +8,7 @@
       "category": "application-framework",
       "github": "https://github.com/abpframework/abp",
       "website": "https://abp.io",
-      "stars": 14471,
+      "stars": 14472,
       "license": "LGPL-3.0",
       "country_evidence": [
         {
@@ -43,11 +43,11 @@
         "multi-tenancy",
         "saas"
       ],
-      "last_commit": "2026-11-23T10:26:45Z",
+      "last_commit": "2026-11-24T10:32:02Z",
       "last_release": "2026-11-19T10:16:59Z",
       "created_at": "2016-12-03T22:56:24Z",
-      "updated_at": "2026-11-23T01:29:54Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "updated_at": "2026-11-23T19:21:32Z",
+      "scanned_at": "2026-11-24T13:07:04Z"
     },
     {
       "name": "ASP.NET Boilerplate",
@@ -68,7 +68,7 @@
       "github_owner": "aspnetboilerplate",
       "github_repo": "aspnetboilerplate",
       "country_score": 30,
-      "forks": 3794,
+      "forks": 3795,
       "open_issues": 62,
       "watchers": 745,
       "default_branch": "dev",
@@ -93,7 +93,7 @@
       "last_release": "2026-10-13T06:17:29Z",
       "created_at": "2013-08-18T20:45:08Z",
       "updated_at": "2026-11-23T07:19:50Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "scanned_at": "2026-11-24T13:07:04Z"
     },
     {
       "name": "SAHI",
@@ -101,7 +101,7 @@
       "category": "computer-vision-framework",
       "github": "https://github.com/obss/sahi",
       "website": "https://obss.github.io/sahi",
-      "stars": 5614,
+      "stars": 5617,
       "license": "MIT",
       "country_evidence": [
         {
@@ -114,9 +114,8 @@
       "github_owner": "obss",
       "github_repo": "sahi",
       "country_score": 40,
-      "forks": 794,
-      "open_issues": 15,
-      "watchers": 47,
+      "forks": 795,
+      "watchers": 46,
       "default_branch": "main",
       "description": "Framework agnostic sliced/tiled inference + interactive ui + error analysis plots",
       "topics": [
@@ -141,11 +140,11 @@
         "tiling",
         "yolo26"
       ],
-      "last_commit": "2026-11-01T01:43:33Z",
-      "last_release": "2026-11-01T01:43:00Z",
+      "last_commit": "2026-11-24T09:17:41Z",
+      "last_release": "2026-11-24T09:17:41Z",
       "created_at": "2021-01-30T12:54:53Z",
-      "updated_at": "2026-11-23T11:07:20Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "updated_at": "2026-11-24T10:07:47Z",
+      "scanned_at": "2026-11-24T13:07:04Z"
     },
     {
       "name": "PuzzleJS",
@@ -153,7 +152,7 @@
       "category": "micro-frontend-framework",
       "github": "https://github.com/puzzle-js/puzzle-js",
       "website": "https://puzzle-js.github.io/puzzle-js",
-      "stars": 663,
+      "stars": 662,
       "license": "MIT",
       "country_evidence": [
         {
@@ -185,8 +184,8 @@
       "last_commit": "2024-11-28T06:41:29Z",
       "last_release": "2019-08-01T07:01:17Z",
       "created_at": "2018-03-24T14:54:50Z",
-      "updated_at": "2026-11-19T20:52:58Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "updated_at": "2026-11-23T23:54:22Z",
+      "scanned_at": "2026-11-24T13:07:04Z"
     },
     {
       "name": "VoltranJS",
@@ -226,7 +225,7 @@
       "last_release": "2026-03-26T08:30:59Z",
       "created_at": "2020-12-29T14:12:45Z",
       "updated_at": "2026-11-19T22:04:59Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "scanned_at": "2026-11-24T13:07:04Z"
     },
     {
       "name": "Stove",
@@ -260,11 +259,11 @@
         "testing-framework",
         "testing-tools"
       ],
-      "last_commit": "2026-11-23T09:03:34Z",
+      "last_commit": "2026-11-23T13:51:45Z",
       "last_release": "2026-11-13T09:49:57Z",
       "created_at": "2023-01-18T13:03:34Z",
       "updated_at": "2026-11-19T22:47:54Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "scanned_at": "2026-11-24T13:07:04Z"
     },
     {
       "name": "PrimeFaces",
@@ -286,15 +285,15 @@
       "github_repo": "primefaces",
       "country_score": 40,
       "forks": 803,
-      "open_issues": 55,
+      "open_issues": 46,
       "watchers": 123,
       "default_branch": "master",
       "description": "Ultimate Component Suite for Jakarta Faces",
-      "last_commit": "2026-11-22T16:08:26Z",
+      "last_commit": "2026-11-23T16:08:32Z",
       "last_release": "2026-11-12T15:55:35Z",
       "created_at": "2015-04-11T09:48:53Z",
       "updated_at": "2026-11-21T10:14:28Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "scanned_at": "2026-11-24T13:07:04Z"
     },
     {
       "name": "Kemal",
@@ -302,7 +301,7 @@
       "category": "web-framework",
       "github": "https://github.com/kemalcr/kemal",
       "website": "https://kemalcr.com",
-      "stars": 3935,
+      "stars": 3934,
       "license": "MIT",
       "country_evidence": [
         {
@@ -335,8 +334,8 @@
       "last_commit": "2026-11-18T15:31:15Z",
       "last_release": "2026-10-17T11:31:14Z",
       "created_at": "2015-10-23T16:56:29Z",
-      "updated_at": "2026-11-19T19:45:42Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "updated_at": "2026-11-23T12:04:56Z",
+      "scanned_at": "2026-11-24T13:07:04Z"
     },
     {
       "name": "ZN Framework",
@@ -371,7 +370,7 @@
       "last_release": "2026-10-02T16:36:01Z",
       "created_at": "2015-03-28T12:26:26Z",
       "updated_at": "2026-10-05T12:47:43Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "scanned_at": "2026-11-24T13:07:04Z"
     },
     {
       "name": "ZATRANO",
@@ -406,7 +405,7 @@
       "last_release": "2026-10-16T15:27:58Z",
       "created_at": "2026-08-01T10:37:35Z",
       "updated_at": "2026-10-16T15:22:52Z",
-      "scanned_at": "2026-11-23T11:32:59Z"
+      "scanned_at": "2026-11-24T13:07:04Z"
     }
   ]
 }
